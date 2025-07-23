@@ -85,3 +85,4 @@ This project is intended to be used only by the developer to manage video upload
 
 📃 [Privacy Policy](https://github.com/GabrielBcrd/auto_uploader_youtube/blob/main/privacy.md)  
 📄 [MIT License](https://github.com/GabrielBcrd/auto_uploader_youtube/blob/main/LICENSE)
+📄 [Terms of use](https://github.com/GabrielBcrd/auto_uploader_youtube/blob/main/terms_of_use.md)
