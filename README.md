@@ -83,5 +83,5 @@ This script uses OAuth 2.0 to authenticate users via Google's secure flow. It re
 
 This project is intended to be used only by the developer to manage video uploads to personal YouTube channels.
 
-📃 [Privacy Policy](https://github.com/GabrielBcrd/auto_uploader_youtube/blob/main/privacy_policy.md)  
+📃 [Privacy Policy](https://github.com/GabrielBcrd/auto_uploader_youtube/blob/main/privacy.md)  
 📄 [MIT License](https://github.com/GabrielBcrd/auto_uploader_youtube/blob/main/LICENSE)
